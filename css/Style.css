@@ -59,6 +59,8 @@ header .btn_group button {
     margin-left: 12px;
     font-family: 'Noto Sans';
     font-weight: 700;
+    display: flex;
+    align-items: center;
 }
 
 nav {
