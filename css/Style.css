@@ -57,6 +57,7 @@ header .btn_group button {
     border: 1px solid #778A50;
     border-radius: 3px;
     margin-left: 12px;
+    font-family: 'Noto Sans';
 }
 
 nav {
